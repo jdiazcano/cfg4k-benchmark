@@ -44,11 +44,6 @@
             <artifactId>kotlin-stdlib</artifactId>
             <version>${kotlin.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.github.czyzby</groupId>
-            <artifactId>kotlin-times</artifactId>
-            <version>1.0</version>
-        </dependency>
 
         <!-- For Cfg4k Benchmarks -->
         <dependency>
